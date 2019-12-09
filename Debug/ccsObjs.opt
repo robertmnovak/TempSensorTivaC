@@ -1,0 +1,1 @@
+"./main.o" "./startup_tm4c_gnu.o" "./BME280/BME280_I2C.o" "./BSP/bsp.o" "./I2C/i2c.o" "./OLED/SSD1306_I2C_TivaC.o" "./UART/uart.o" -Wl,-T"../tm4c123gh6pm.lds" 
